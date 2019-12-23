@@ -1,5 +1,5 @@
 <h4>Note 1: My impletation for training models is in MyOwn directory</h1>
-<h4>Note 2: Data set (both training and testing set) has been download at <b>data</b> directory
+<h5>Note 2: Data set (both training and testing set) has been download at <b>data</b> directory</h5>
 
 * CD to MyOwn directory
 * Run train_ResNet.py or train_vgg16.py to train a model
